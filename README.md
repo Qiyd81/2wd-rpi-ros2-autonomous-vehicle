@@ -10,7 +10,15 @@ ROS2 Foxy - installed via Ubuntu server 20.04 - is employed in controlling a 2 w
 ## Images
 
 <p align="center">
-  <img src=images/sensehat_assembled.png>
+  <img src=images/side.jpg>
+</p>
+
+<p align="center">
+  <img src=images/top.jpg>
+</p>
+
+<p align="center">
+  <img src=images/bottom.jpg>
 </p>
 
 
