@@ -17,7 +17,7 @@ Pictures of the assembled projecct
 <p align="center">
   <img src=images/side.jpg width="600">
 </p>
-<img src=images/top.jpg width="500"> <img src=images/bottom.jpg width="500">
+<img src=images/top.jpg width="400"> <img src=images/bottom.jpg width="400">
 
 ## Software
 
