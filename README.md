@@ -1,4 +1,4 @@
-# Overview
+# 2 Wheeled Drive Raspberry Pi Autonomous Vehicle on ROS2
 ROS2 Foxy - installed via Ubuntu server 20.04 - is employed in controlling a 2 wheeled drive vehicle. An RPLIDAR A1 sensor is used for obstacle avoidance and Simultaneous Localization and Mapping (SLAM) operations. The vehicle is powered by Raspberry Pi 4 board computer. For added functionality, the vehicle can be controlled with a joystick game controller.
 
 (To be completed) 
@@ -25,7 +25,7 @@ Pictures of the assembled projecct
 
 ## Software
 
-### Software architecture (is this title redundant)
+### Software architecture
 Software used
 
 ### Software install/setup
@@ -37,6 +37,9 @@ how to download and run the code
 
 
 ## Future work/suggestions
+
+
+## References
 
 
 
