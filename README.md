@@ -14,13 +14,12 @@ Pictures of some components/sensors
 Notes about assembly. Some observations too
 Pictures of the assembled projecct
 
-
-<img src=images/side.jpg width="600">
+<p align="center">
+  <img src=images/side.jpg width="600">
+</p>
 <img src=images/top.jpg width="600">
 
-<p align="center">
-  <img src=images/bottom.jpg>
-</p>
+<img src=images/bottom.jpg width="600">
 
 ## Software
 
