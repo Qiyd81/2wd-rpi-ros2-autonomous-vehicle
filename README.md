@@ -28,7 +28,7 @@ Pictures of the assembled projecct
 ### Software architecture (is this title redundant)
 Software used
 
-### Software install
+### Software install/setup
 how to download and run the code
 
 ## Video
