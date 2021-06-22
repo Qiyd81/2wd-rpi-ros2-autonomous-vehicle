@@ -18,6 +18,9 @@ Pictures of the assembled projecct
   <img src=images/side.jpg width="200">
 </p>
 
+<img src=images/side.jpg width="200">
+
+
 <p align="center">
   <img src=images/top.jpg>
 </p>
@@ -34,7 +37,7 @@ Software used,
 ### Software setup/install
 how to download the code
 
-## "Video (of project in action)" Find a much better title
+## Video
 
 ## Observations
 
