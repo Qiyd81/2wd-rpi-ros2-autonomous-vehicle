@@ -18,7 +18,7 @@ Pictures of the assembled projecct
   <img src=images/side.jpg width="200">
 </p>
 
-<img src=images/side.jpg width="200">
+<img src=images/side.jpg width="800">
 
 
 <p align="center">
