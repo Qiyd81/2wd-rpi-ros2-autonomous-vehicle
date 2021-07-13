@@ -1,0 +1,21 @@
+site_name: My Docs
+site_url: https://example.com/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+repo_url: https://github.com/example/example-repo
+repo_name: example/example-repo
+plugins:
+  - search:
+      lang: en
