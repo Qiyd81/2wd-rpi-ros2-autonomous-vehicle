@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: 2wd RPi ROS2 Autonomous Vehicle
 site_url: https://example.com/
 
 theme:
@@ -14,8 +14,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-repo_url: https://github.com/example/example-repo
-repo_name: example/example-repo
+repo_url: https://github.com/TheNoobInventor/2wd-rpi-ros2-autonomous-vehicle
+repo_name: TheNoobInventor/2wd-rpi-ros2-autonomous-vehicle
 plugins:
   - search:
       lang: en
