@@ -15,7 +15,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 repo_url: https://github.com/TheNoobInventor/2wd-rpi-ros2-autonomous-vehicle
-repo_name: TheNoobInventor/2wd-rpi-ros2-autonomous-vehicle
+repo_name: TheNoobInventor/2wd-rpi-ros2-autonomous-vehicle 
 plugins:
   - search:
       lang: en
